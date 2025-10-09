@@ -22,7 +22,7 @@ A selection of my last projects. Click on the links to learn more.
 > ### Educational Learning Hub
 > A responsible and accessible website
 > 
-> 🔗 [Repo](https://github.com/ueide/Learning-Hub) | [Demo](https://learning-hub-xvqe.onrender.com)
+> 🔗 [Repo](https://github.com/ueide/Learning-Hub) | <a href="https://learning-hub-xvqe.onrender.com" target="_blank">Demo</a>
 
 <br>
 
