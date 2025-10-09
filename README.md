@@ -5,9 +5,8 @@ Check out my projects below to see my skills in action. </p>
 <br>
 
 ## Tech Stack 🧩
-<p>
-    Here's a quick peek at the languages, frameworks, and tools I am comfortable with for creating modern, responsive applications that really connect with users!
-</p>
+Here's a quick peek at the languages, frameworks, and tools I am comfortable with for creating modern, responsive applications that really connect with users!
+
 
 ![metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=ueide&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
@@ -22,8 +21,7 @@ A selection of my last projects. Click on the links to learn more.
 > ### Educational Learning Hub
 > A responsible and accessible website
 > 
-> 🔗 [Repo](https://github.com/ueide/Learning-Hub) | <a href="https://learning-hub-xvqe.onrender.com" target="_blank">Demo</a>
-
+> 🔗 [Repo](https://github.com/ueide/Learning-Hub) | [Demo](https://learning-hub-xvqe.onrender.com)
 <br>
 
 > ### Data Representation
