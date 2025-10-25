@@ -10,7 +10,7 @@ Here's a quick peek at the languages, frameworks, and tools I am comfortable wit
 
 ![metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=ueide&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cpp,figma)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js,html,css,p5js,nodejs,express,cpp,mysql,figma)](https://skillicons.dev)
 <br>
 <br>
 
