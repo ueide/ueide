@@ -14,7 +14,9 @@ I bridge the gap between complex technical logic and intuitive user experiences.
 ## Tech Stack 🧩
 Here's a quick peek at the languages, frameworks, and tools I am comfortable with for creating modern, responsive applications that really connect with users!
 
-![metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=ueide&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats-ueide.vercel.app/api/top-langs?username=ueide&layout=compact&theme=dark&bg_color=00000000&show_icons=true&border_color=#444c56" width="348" />
+</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -47,6 +49,7 @@ A selection of my last projects.
 <br>
 
 ## Let's Connect 🤝
-- 💼 [LinkedIn](https://www.linkedin.com/in/ueide-teixeira)
-- 🌐 [Portfolio Website](https://ueide.framer.website)
+> 💼 [LinkedIn](https://www.linkedin.com/in/ueide-teixeira)
+
+> 🌐 [Portfolio Website](https://ueide.framer.website)
 
