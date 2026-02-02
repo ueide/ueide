@@ -20,7 +20,7 @@ Here's a quick peek at the languages, frameworks, and tools I am comfortable wit
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,p5js,nodejs,express,cpp,mysql,figma,github,vscode,vercel" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,p5js,nodejs,express,cpp,mysql,sqlite,npm,pnpm,webflow,figma,github,vscode,vercel&perline=8" /> 
   </a>
 </p>
 
