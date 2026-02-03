@@ -29,23 +29,62 @@ Here's a quick peek at the languages, frameworks, and tools I am comfortable wit
 ## Last Projects ✨
 A selection of my last projects.
 
-> ### Educational Learning Hub
-> A responsible and accessible website
-> 
-> 🔗 [Repo](https://github.com/ueide/Learning-Hub) | [Demo](https://learning-hub-xvqe.onrender.com)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Snooker Game</h3>
+      <p align="center">
+        <img src="https://github.com/ueide/Snooker-Game/blob/main/assets/snooker-cover.png?raw=true" alt="Snooker-Game" width="85%" />
+      </p>
+      <p>A high-calibre snooker game that incorporates realistic physics, visual effects, ball trajectories, and a versus computer mode.</p>
+      <p align="center">
+        <a href="https://snooker-game-sigma.vercel.app"> | Live Demo |</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/ueide/Snooker-Game">| Code |</a> 
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">2D Platform Game</h3>
+      <p align="center">
+        <img src="https://github.com/ueide/Game_NinjaR/blob/main/images/NinjaR-cover.png" alt="Game Ninja Run" width="85%"/>
+      </p>
+      <p>Custom 2D character movement with fluid state machine logic for smooth gameplay in a geometric 2D platformer with engaging UI.</p>
+      <p align="center">
+        <a href="https://game-ninjarun.vercel.app">| Live Demo |</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/ueide/Game_NinjaR">| Code |</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Educational Learning Hub</h3>
+      <p align="center">
+        <img src="https://github.com/ueide/Learning-Hub/blob/main/public/images/E-learn-cover.png" alt="A webpage showcasing the history of the internet in the Netherlands." width="85%"/>
+      </p>
+      <p>Mobile-first navigation logic with an accessible UI, ensuring a seamless and high-performance cross-device user experience.</p>
+      <p align="center"> 
+        <a href="https://learning-hub-xvqe.onrender.com">| Live Demo |</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/ueide/Learning-Hub">| Code |</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Data Representation</h3>
+      <p align="center">
+        <img src="https://github.com/ueide/Chart_Dashboard/blob/main/assets/Dashboard-cover.png" alt="A Dashboard menu displaying a short version of some charts" width="85%"/>
+      </p>
+      <p>A data architecture designed to convert complex datasets into clear, high-contrast visual patterns that are easy to interpret.</p>
+      <p align="center"> 
+        <a href="https://chart-dashboardvis.vercel.app">| Live Demo |</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/ueide/Chart_Dashboard">| Code |</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br>
-
-> ### Data Representation
-> Transforming data into clear charts
-> 
-> 🔗 [Repo](https://github.com/ueide/Chart_Dashboard) | [Demo](https://chart-dashboardvis.vercel.app)
-<br>
-
-> ### 2D Platform Game
-> 2D platformer project with p5.js
-> 
-> 🔗 [Repo](https://github.com/ueide/Game_NinjaR) | [Demo](https://game-ninjarun.vercel.app)
-
 <br>
 
 ## Let's Connect 🤝
