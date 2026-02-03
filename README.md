@@ -15,7 +15,7 @@ I bridge the gap between complex technical logic and intuitive user experiences.
 Here's a quick peek at the languages, frameworks, and tools I am comfortable with for creating modern, responsive applications that really connect with users!
 
 <p align="left">
-  <img src="https://github-readme-stats-ueide.vercel.app/api/top-langs?username=ueide&layout=compact&theme=dark&bg_color=00000000&show_icons=true&border_color=#444c56" width="348" />
+  <img src="https://github-readme-stats-ueide.vercel.app/api/top-langs?username=ueide&layout=compact&theme=dark&bg_color=00000000&show_icons=true&border_color=#444c56" width="440" height="212" />
 </p>
 
 <p align="left">
