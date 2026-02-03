@@ -48,7 +48,7 @@ A selection of my last projects.
       <p align="center">
         <img src="https://github.com/ueide/Game_NinjaR/blob/main/images/NinjaR-cover.png" alt="Game Ninja Run" width="85%"/>
       </p>
-      <p>Custom 2D character movement with fluid state machine logic for smooth gameplay in a geometric 2D platformer with engaging UI.</p>
+      <p>2D game with fluid state machine logic for smooth gameplay in a geometric 2D platformer with engaging UI.</p>
       <p align="center">
         <a href="https://game-ninjarun.vercel.app">| Live Demo |</a>
         &nbsp;&nbsp;&nbsp;&nbsp;
