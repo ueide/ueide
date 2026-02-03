@@ -34,7 +34,7 @@ A selection of my last projects.
     <td width="50%">
       <h3 align="center">Snooker Game</h3>
       <p align="center">
-        <img src="https://github.com/ueide/Snooker-Game/blob/main/assets/snooker-cover.png?raw=true" alt="Snooker-Game" width="85%" />
+        <img src="https://github.com/ueide/Snooker-Game/blob/main/assets/snooker-cover.png" alt="Snooker-Game" width="85%" />
       </p>
       <p>A high-calibre snooker game that incorporates realistic physics, visual effects, ball trajectories, and a versus computer mode.</p>
       <p align="center">
